@@ -12,10 +12,22 @@ The project explores three fundamental methods:
 
 ## Table of Contents
 
-  - [Core Concepts Demonstrated](https://www.google.com/search?q=%23-core-concepts-demonstrated)
-  - [Getting Started](https://www.google.com/search?q=%23-getting-started)
-  - [Notebook Descriptions](https://www.google.com/search?q=%23-notebook-descriptions)
-  - [Results Summary](https://www.google.com/search?q=%23-results-summary)
+- [Core Concepts Demonstrated](#core-concepts-demonstrated)
+- [Getting Started](#getting-started)
+- [Notebook Descriptions](#notebook-descriptions)
+- [Results Summary](#results-summary)
+
+## files
+## Notebook Descriptions
+
+### 1. Bag of Words + Stemming
+**File:** [`notebooks/1_spam_and_ham_project_using_BOW_and_stemming.ipynb`](notebooks/1_spam_and_ham_project_using_BOW_and_stemming.ipynb)
+
+### 2. TF-IDF + Lemmatization
+**File:** [`notebooks/2_spam_and_ham_using_TF-IDF_and_lemmatization.ipynb`](notebooks/2_spam_and_ham_using_TF-IDF_and_lemmatization.ipynb)
+
+### 3. Average Word2Vec Embeddings
+**File:** [`notebooks/3_spam_and_ham_using_word2vec_and_avgWord2Vec.ipynb`](notebooks/3_spam_and_ham_using_word2vec_and_avgWord2Vec.ipynb)
 
 -----
 
